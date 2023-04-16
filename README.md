@@ -1,4 +1,4 @@
-# DS2001-Final-Project
+# Financial Data and Stock Price Correlation
 '''
 Research Question: 
 How do various quantitative pieces of financial data affect and correlate with 
